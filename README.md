@@ -1,11 +1,6 @@
 # hanwha-people-counting-web
 A lightweight PowerShell middleware that fetches real-time people counting data from Hanwha AI cameras and displays it on a clean web dashboard for Nx Witness layouts.
 
-Hanwha Vision Occupancy Dashboard for Nx Witness
-
-A lightweight PowerShell middleware that fetches real-time people counting data from Hanwha AI cameras and displays it on a clean web dashboard for Nx Witness layouts.
-What it does
-
     Live Extraction: Polls Hanwha SUNAPI every second for In/Out counts.
 
     Occupancy Logic: Calculates how many people are currently inside (In - Out).
@@ -19,8 +14,6 @@ Prerequisites
     Windows 10/11 or IoT with IIS (Internet Information Services) enabled.
 
     Hanwha AI Camera (Q or X series) with People Counting enabled on Line 1.
-
-    Nx Witness VMS to display the result.
 
 Quick Setup
 
